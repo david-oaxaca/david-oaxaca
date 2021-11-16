@@ -6,7 +6,7 @@ I'm a passionate computer systems student from México looking to learn more and
 
 - 🌱 I’m currently learning **React and other web frameworks**
 
-- 📫 How to reach me **tdwdavi76@gmail.com**
+- 📫 How to reach me **tdwdavid76@gmail.com**
 
 ## Connect with me:
 <p align="left">
