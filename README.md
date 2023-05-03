@@ -78,16 +78,16 @@ These are some of the programming languages and tools I've used on my side proje
   <table>
     <tr>
       <th>
-        <p align=center><strong>Programming Languages:</strong></p>
+        <p align=center><strong>Programming Languages</strong></p>
       </th>
       <th>
-        <p align=center><strong>Frameworks and libraries:</strong></p>
+        <p align=center><strong>Frameworks and libraries</strong></p>
       </th>
       <th>
-        <p align=center><strong>Databases:</strong></p>
+        <p align=center><strong>Databases</strong></p>
       </th>
       <th>
-        <p align=center><strong>DevOps Tools:</strong></p>
+        <p align=center><strong>DevOps Tools</strong></p>
       </th>
     </tr>
     <tr>
@@ -349,12 +349,11 @@ These are some of the programming languages and tools I've used on my side proje
       </td>
     </tr>
   </table>
-</div>
-<div align="center">
-  <table>
+  
+   <table>
     <tr>
       <th>
-        Other tools
+        Other Tools
       </th>
     </tr>
     <tr>
@@ -399,9 +398,10 @@ These are some of the programming languages and tools I've used on my side proje
         </ul>
       </td>
     </tr>
-  <table/>
-<div>
-  
+  </table>
+</div>
+
+<hr />
 <h2>
  ⚡ Certifications and achievements!
 </h2>
@@ -441,4 +441,14 @@ These are some of my most relevant certifications, mainly focused on Cloud:
        height="150" 
     />
   </a>
+  <br />
+  <a href="https://drive.google.com/file/d/1e9DsfLh2FkdgmFf-X9yX1ZvdCAu1lEJI/view?usp=sharing"> 
+    <img 
+       align="center" 
+       src="/assets/badges/microsoft-certified-azure-fundamentals.png" 
+       alt="SCS icon" 
+       height="150" 
+    />
+  </a>
 </div>
+
