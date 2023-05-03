@@ -1,5 +1,7 @@
+![David Oaxaca Banner](/assets/banner/readme-banner.png)
+
 <h1 align="center">
-  Hello World!, I'm David Oaxaca.
+  Hello World!, I'm David Oaxaca 👋.
 </h1>
 
 <h3 align="center">
@@ -42,9 +44,22 @@ Connect with me:
               <img 
                    align="center" 
                    src="https://skillicons.dev/icons?i=linkedin" 
-                   alt="david arturo oaxaca perez" 
-                   height="50" 
-                   width="60" 
+                   alt="li: david arturo oaxaca perez" 
+                   height="60"
+               />
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="left">
+          <a 
+             href="mailto:tdwdavid76@gmail.com" 
+             target="blank">
+              <img 
+                   align="center" 
+                   src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" 
+                   alt="tdwdavid76@gmail.com" 
+                   height="50"  
                />
           </a>
         </p>
@@ -386,33 +401,37 @@ These are some of the programming languages and tools I've used on my side proje
 <p>
 These are some of my most relevant certifications, mainly focused on Cloud:
 </p>
-  <ul>
-    <li>
-      <div> 
-        <a href="https://www.credly.com/badges/a6946bb0-fa77-4796-ab05-c6bb0d9f8946/linked_in_profile"> 
-          <strong>AWS Certified Cloud Practitioner (CLF-C01)</strong>
-        </a>
-      </div>
-    </li>
-    <li>
-      <div> 
-        <a href="https://www.credly.com/badges/c60e0153-23b0-43f6-a5f1-09b704d25e5e"> 
-          <strong>AWS Certified Solutions Architect (SAA-C01)</strong>
-        </a>
-      </div>
-    </li>
-   <li>
-      <div> 
-        <a href="https://www.credly.com/badges/86226542-869a-41bd-a7d1-dea821d45665/public_url"> 
-          <strong>AWS Certified Developer Associate (DVA-C02)</strong>
-        </a>
-      </div>
-    </li>
-    <li>
-      <div> 
-        <a href="https://www.credly.com/badges/7594d469-b6a7-4cd7-b49b-80db3da0a26e/linked_in_profile"> 
-          <strong>AWS Certified Security - Specialty (SCS-C01)</strong>
-        </a>
-      </div>
-    </li>
-  </ul>
+<div align="center">
+  <a href="https://www.credly.com/badges/a6946bb0-fa77-4796-ab05-c6bb0d9f8946/linked_in_profile"> 
+    <img 
+       align="center" 
+       src="/assets/badges/aws-certified-cloud-practitioner.png" 
+       alt="CLF icon" 
+       height="150" 
+    />
+  </a>
+  <a href="https://www.credly.com/badges/a6946bb0-fa77-4796-ab05-c6bb0d9f8946/linked_in_profile"> 
+    <img 
+       align="center" 
+       src="/assets/badges/aws-certified-solutions-architect-associate.png" 
+       alt="SAA icon" 
+       height="150" 
+    />
+  </a>
+  <a href="https://www.credly.com/badges/a6946bb0-fa77-4796-ab05-c6bb0d9f8946/linked_in_profile"> 
+    <img 
+       align="center" 
+       src="/assets/badges/aws-certified-developer-associate.png" 
+       alt="DVA icon" 
+       height="150" 
+    />
+  </a>
+  <a href="https://www.credly.com/badges/a6946bb0-fa77-4796-ab05-c6bb0d9f8946/linked_in_profile"> 
+    <img 
+       align="center" 
+       src="/assets/badges/aws-certified-security-specialty.png" 
+       alt="SCS icon" 
+       height="150" 
+    />
+  </a>
+</div>
