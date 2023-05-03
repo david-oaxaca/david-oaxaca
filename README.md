@@ -89,9 +89,6 @@ These are some of the programming languages and tools I've used on my side proje
       <th>
         <p align=center><strong>DevOps Tools:</strong></p>
       </th>
-      <th>
-        <p align=center><strong>Other Tools:</strong></p>
-      </th>
     </tr>
     <tr>
       <td>
@@ -350,6 +347,17 @@ These are some of the programming languages and tools I've used on my side proje
           </li>
         </ul>
       </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <th>
+        Other tools
+      </th>
+    </tr>
+    <tr>
       <td>
         <ul>
           <li>
@@ -373,7 +381,7 @@ These are some of the programming languages and tools I've used on my side proje
                  height="40" 
                  width="50" 
               />
-              <strong>Git</strong>
+              <strong>Git/GitHub</strong>
             </div>
           </li>
           <li>
@@ -385,16 +393,15 @@ These are some of the programming languages and tools I've used on my side proje
                  height="40" 
                  width="50" 
               />
-              <strong>Bash</strong>
+              <strong>Git/Bash</strong>
             </div>
           </li>
         </ul>
       </td>
     </tr>
-  </table>
-</div>
-
-<hr />
+  <table/>
+<div>
+  
 <h2>
  ⚡ Certifications and achievements!
 </h2>
